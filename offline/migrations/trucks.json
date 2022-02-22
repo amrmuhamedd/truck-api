@@ -1,0 +1,21 @@
+{
+  "Table": {
+    "TableName": "TrucksTable",
+    "KeySchema": [
+      {
+        "AttributeName": "productID",
+        "KeyType": "HASH"
+      }
+    ],
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "productID",
+        "AttributeType": "S"
+      }
+    ],
+    "ProvisionedThroughput": {
+      "ReadCapacityUnits": 1,
+      "WriteCapacityUnits": 1
+    }
+  }
+}
