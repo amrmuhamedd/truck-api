@@ -1,5 +1,7 @@
 # Parcel Company Service Documentation
 
+![image](https://github.com/amrmuhamedd/truck-api/assets/47860740/d1ef5fd9-b8e5-4c5f-83d9-c5efc0e05923)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
